@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/avro_schemas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/avro_schemas/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer_controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer_controller/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parcel_producers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parcel_producers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reservoir_producers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reservoir_producers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/streams_processing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/streams_processing/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

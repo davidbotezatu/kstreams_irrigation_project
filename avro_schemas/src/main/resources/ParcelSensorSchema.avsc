@@ -1,0 +1,15 @@
+{
+  "type": "record",
+  "name": "ParcelData",
+  "namespace": "org.irrigation.schema",
+  "fields": [
+    {
+      "name": "T",
+      "type": "int"
+    },
+    {
+      "name": "H",
+      "type": "int"
+    }
+  ]
+}

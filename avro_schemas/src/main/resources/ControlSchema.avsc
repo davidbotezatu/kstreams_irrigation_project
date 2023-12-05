@@ -1,0 +1,20 @@
+{
+  "type": "record",
+  "name": "SystemControl",
+  "namespace": "org.irrigation.schema",
+  "fields": [
+    {
+      "name": "act",
+      "type": "boolean"
+    },
+    {
+      "name": "RV",
+      "type": "int"
+    },
+    {
+      "name": "PV",
+      "type": ["null", "int"],
+      "default": null
+    }
+  ]
+}
